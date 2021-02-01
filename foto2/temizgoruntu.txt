@@ -1,0 +1,1 @@
+verisetinde kullanılan görüntülerin temizlenmiş halinin bulunduğu klasör
